@@ -1,6 +1,22 @@
 %HW4
 %% 
 % Problem 1. 
+%GB comments:
+1a 100
+1b 100
+1c 100
+1d 100
+2a 50 No saved .avi file 
+2b. 100
+3a. 100
+3b 100
+3c 100
+3d 100
+3e 90 the clean up could be better
+4a. 50 No saved movie of the output and script doesn’t produce a movie. 
+4b. 75 only plots for mean intensity is provided for both channels. Need to provide a plot for the number of cells as well. 
+ Overall = 90
+
 
 % 1. Write a function to generate an 8-bit image of size 1024x1024 with a random value 
 % of the intensity in each pixel. Call your image rand8bit.tif. 
